@@ -19,7 +19,7 @@ import java.net.URLEncoder;
  **/
 @RestController
 @RequestMapping("file")
-public class FileController {
+public class FileBugController {
 
     private final static String FILE_PATH = "/Users/oscar/Documents/code_test/";
 
